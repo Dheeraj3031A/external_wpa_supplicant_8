@@ -11,7 +11,6 @@
 
 #include "common/defs.h"
 
-#define MAX_NUM_MLO_LINKS 15
 /* IEEE 802.11i */
 #define PMKID_LEN 16
 #define PMK_LEN 32
